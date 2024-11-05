@@ -1,4 +1,4 @@
 # finance
 Finanças -- Nox
-![Gemini_Generated_Image_gotdb0gotdb0gotd](https://github.com/user-attachments/assets/913361f1-f48e-457f-923d-fca064cf4b2d)
-![Gemini_Generated_Image_gotdb0gotdb0gotd (1)](https://github.com/user-attachments/assets/9037e1fc-3c5d-4e4a-b13d-0ebf1a0c932e)
+![Screenshot_1730827385](https://github.com/user-attachments/assets/4bf81698-2d27-41ae-bf58-75192c556192)
+![Screenshot_1730827379](https://github.com/user-attachments/assets/ad93bd0c-997c-475c-b1d7-4994be329941)
